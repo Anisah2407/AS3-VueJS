@@ -1,6 +1,11 @@
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
 </script>
+<style>
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+</style>
 
 <template>
   <div class="container mx-auto p-4">
