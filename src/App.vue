@@ -9,9 +9,9 @@
       <h1 class="text-4xl font-bold text-purple-600">
         Noranisah Binti Salahudin
       </h1>
-      <!-- Short description of yourself -->
+      <!-- Short description of myself -->
       <p class="text-gray-800 mb-4">22FTT1492 | Web Developer | DWDT08</p>
-      <!-- Add your hobbies, interests, etc. here -->
+      <!-- Add hobbies, interests, etc. here -->
       <p class="text-gray-700 mb-4">
         I'm a passionate soul who thrives on adventure and creativity. Rugby is
         my adrenaline-fueled escape, where the rush of the game and the
